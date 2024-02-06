@@ -1,7 +1,6 @@
 # FRONTEND-MENTOR SIMPLE OMELETTE RECIPE CHALLENGE
 
-I used a little grid to get around an aligning issue I came across in the preparation container. Inside the images folder you will find a screenshot of the final design. 
-
+I used a little grid to get around an aligning issue I came across in the preparation container.
 Besides that, I didnt use anything out of the ordinay just normal mark up and CSS.
 
 I went of the JPEG image that came with the original challenge so it's not 100% accurate. 
