@@ -1,4 +1,4 @@
-## FRONTEND-MENTOR SIMPLE OMELETTE RECIPE CHALLENGE
+# FRONTEND-MENTOR SIMPLE OMELETTE RECIPE CHALLENGE
 
 I used a little grid to get around an aligning issue I came across in the preparation container. Inside the images folder you will find a screenshot of the final design. 
 
@@ -18,5 +18,5 @@ If you have some suggestions and tips for those issues in particular I would be 
 
 Thank you, FRONTEND MENTOR, this one definetly taught me some new tricks!
 
-# SCREENSHOTS
+## SCREENSHOTS
 You can find the screenshots for both the mobile and desktop versions of the final design, by navigation to the screenshots folder.
